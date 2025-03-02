@@ -1,0 +1,9 @@
+{
+  "title": "River Forecast System v2 Monthly Retrospective Simulation",
+  "description": "Monthly simulation of global rivers since 1940 based on TDX-Hydro hydrography, ERA5 meteorology reanalysis, and matrix Muskingum vector routing using river-route.",
+  "author": "Riley Chad Hales, PhD",
+  "creation_date": "2025-01-21",
+  "license": "CC-BY-SA 4.0",
+  "copyright": "2025",
+  "revision": "1"
+}
